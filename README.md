@@ -13,7 +13,7 @@
   <!-- <a href="https://www.linkedin.com/in/kundan-singh-jodha-696a62124"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; -->
   <a href="mailto:singhjodhakundan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <!-- <a href="https://briskcovey.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp; -->
-  <a href="https://github.com/iamksjodha?tab=followers"><img src="https://img.shields.io/github/followers/mtalhazulf?style=for-the-badge&logo=github&logoColor=white&color=0d1117" /></a>&nbsp;
+  <a href="https://github.com/iamksjodha?tab=followers"><img src="https://img.shields.io/github/followers/iamksjodha?style=for-the-badge&logo=github&logoColor=white&color=0d1117" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=iamksjodha&style=for-the-badge&color=0d1117" />
 </p>
 
@@ -109,11 +109,11 @@ I care about **scalable architecture from day one** not duct-tape solutions that
 <h3 align="center">GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhazulf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamksjodha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtalhazulf&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamksjodha&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
 </p>
 
 ---
