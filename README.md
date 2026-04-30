@@ -13,8 +13,8 @@
   <!-- <a href="https://www.linkedin.com/in/kundan-singh-jodha-696a62124"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; -->
   <a href="mailto:singhjodhakundan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <!-- <a href="https://briskcovey.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp; -->
-  <a href="https://github.com/iamksjodha?tab=followers"><img src="https://img.shields.io/github/followers/iamksjodha?style=for-the-badge&logo=github&logoColor=white&color=0d1117" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=iamksjodha&style=for-the-badge&color=0d1117" />
+  <!-- <a href="https://github.com/iamksjodha?tab=followers"><img src="https://img.shields.io/github/followers/iamksjodha?style=for-the-badge&logo=github&logoColor=white&color=0d1117" /></a>&nbsp; -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=iamksjodha&style=for-the-badge&color=0d1117" /> -->
 </p>
 
 <br/>
