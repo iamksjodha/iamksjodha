@@ -19,7 +19,7 @@
 
 <br/>
 
-I build, scale, and automate software products from early-stage MVPs to enterprise systems.  
+Whether you're building a new app or struggling to scale an existing one I help you create fast, scalable, production ready applications. 
 10+ years of experience · 50+ production apps shipped · Clients across the US, UK & Europe · 98% satisfaction rate.
 
 I care about **scalable architecture from day one** not duct-tape solutions that need rebuilding six months later.
