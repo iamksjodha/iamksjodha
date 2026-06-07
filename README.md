@@ -19,10 +19,9 @@
 
 <br/>
 
-Whether you're building a new app or struggling to scale an existing one I help you create fast, scalable, production ready applications. 
-10+ years of experience · 50+ production apps shipped · Clients across the US, UK & Europe · 98% satisfaction rate.
+Whether you're building an AI-powered product from scratch or looking to integrate generative AI into an existing platform, I help companies create scalable, production-ready AI solutions. 10+ years of software engineering experience · AI Agents · LLM Applications · RAG Systems · React/React Native · Clients across the US, UK & Europe.
 
-I care about **scalable architecture from day one** not duct-tape solutions that need rebuilding six months later.
+I focus on building reliable AI systems that deliver measurable business value—not demos, prototypes, or quick fixes that break at scale.
 
 ---
 
